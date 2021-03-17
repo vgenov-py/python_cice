@@ -6,6 +6,11 @@
 * (program you want to use) (file that you want to open with that program) // code main.py
 * cd .. --> One level up of your pwd
 * (program to open the pwd) . // code  .
+* ls
+* rm (remove file)
+* rmdir (remove d if it's empty)
+* rm /directory - r (rmdir if it's full)
+
 ## VENV
 
 * python3 -m venv environment
