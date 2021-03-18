@@ -11,6 +11,7 @@
 	* la lista 2 tendrá todos los valores de densidad que empiecen por 2
 	ej:
 	lista_1 = ["134324", "1354211", "1349.34"]
+	* Qué porcentaje de todos los números empieza por el número 1, 2 ...
 	
 
 ## OOP
