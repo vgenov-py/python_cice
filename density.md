@@ -10,7 +10,7 @@
 	* la lista 1 tendrá todos los valores de densidad que empiecen por 1
 	* la lista 2 tendrá todos los valores de densidad que empiecen por 2
 	ej:
-	lista_1 = ["134324", "1354211", "349.34"]
+	lista_1 = ["134324", "1354211", "1349.34"]
 	
 
 ## OOP
