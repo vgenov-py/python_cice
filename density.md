@@ -22,6 +22,8 @@
 										 densidad: float con tres decimales
 										 superficie: float con tres decimales
 * Ejercicio 9: Crear una función que acepte como parámetro toda la lista de diccionarios y devuelva una lista de objetos
+* Ejercicio 10: Considerando que en cada objeto tenemos la superficie y densidad ambas por km2, crear un MÉTODO (una función dentro del objeto) que devuelva la densidad total del municipio dado
+* Ejercicio 11: Ya que tenemos una lista con todos los objetos, con su método "get_total_density()" obtener la densidad total de la comunidad de Madrid
 
 
 
