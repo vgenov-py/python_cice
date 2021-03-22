@@ -29,6 +29,7 @@
 * Ejercicio 13: Crea un **classmethod** llamado from_str que crea una instancia de la siguiente cadena --> "test-3.54-23.86"
 * Ejercicio 14: Estable una tasa de crecimiento anual del 2%
 * Ejercicio 15: Define un método que aplique el crecimiento anual sobre un objeto
+* Ejercicio 16: Convertir el método del ejercicio 10 en propiedad
 
 
 
