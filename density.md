@@ -30,6 +30,7 @@
 * Ejercicio 14: Estable una tasa de crecimiento anual del 2%
 * Ejercicio 15: Define un método que aplique el crecimiento anual sobre un objeto
 * Ejercicio 16: Convertir el método del ejercicio 10 en propiedad
+* Ejercicio 17: Modificiar el print() para que también devuelva la población
 
 
 
