@@ -24,8 +24,13 @@
 										 densidad: float con tres decimales
 										 superficie: float con tres decimales
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 										 
 =======
+=======
+
+* Ejercicio 9: Crear una función que acepte como parámetro toda la lista de diccionarios y devuelva una lista de objetos
+>>>>>>> Stashed changes
 
 >>>>>>> Stashed changes
 * Ejercicio 9: Crear una función que acepte como parámetro toda la lista de diccionarios y devuelva una lista de objetos
