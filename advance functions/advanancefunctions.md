@@ -10,7 +10,7 @@ https://matplotlib.org/stable/gallery/pie_and_polar_charts/pie_features.html#sph
 ## Todos los ejercicios siguientes tendrán que ser aplicados a ambas muestras
 4. Obtener la proporción de todos los tipos de pareja
 5. Obtener la proporción año a año de parejas heterosexuales y parejas homosexuales
-6. Obtener valor B
+6. Obtener valor B si es "aplicable"
 7. Considerar si es "aplicable" o no el estadístico de correlación "R" y en tal caso calcularlo
 8. Graficar el ejercicio 4 y ejercicio 5 (este último solo si es lineal)
 9. Es la diferencia del porcentaje de parejas homosexuales estadisticamente significativa?
