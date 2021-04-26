@@ -1,7 +1,7 @@
 ## Comprobación de una ley
-
+* https://datos.comunidad.madrid/catalogo/dataset/032474a0-bf11-4465-bb92-392052962866/resource/301aed82-339b-4005-ab20-06db41ee7017/download/municipio_comunidad_madrid.json
 * Para poder realizar este ejercicio deberán descargar el archivo JSON en éste mismo repositorio
-* Ejercicio 1: Obtender la densidad media de los municipios de Madrid
+* Ejercicio 1: Obtener la densidad media de los municipios de Madrid
 * Ejercicio 2: Obtener municipio por codigo ine // Extra: utilizando función filter
 * Ejercicio 3: Obtener el municipio más grande
 * Ejercicio 4: Obtener los 10 municipios con mayor densidad poblacional
