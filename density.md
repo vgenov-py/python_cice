@@ -14,7 +14,7 @@
 
 ## OOP
 * Ejercicio 5: Crear una clase de tipo municipality/municipio
-	* Debe tener tantas propiedas como claves en el diccionario
+	* Debe tener nombre, superficie, densidad
 * Ejercicio 6: Crear una función que acepte un solo parámetro (municipio) y que devuleva un objecto con las propiedades (nombre, densidad, superfice)
 * Ejercicio 7: Modificar el tipo de impresión (print) para que se vea así --> nombre: valor
 										 densidad: float con tres decimales
