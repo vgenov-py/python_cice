@@ -36,4 +36,4 @@
 * Ejercicio 18: Agregar un Error Handeling para verficar que el type pasado como argumento en from_string sea un float
 
 CSV
-.19 Crear un backup de todos nuestros objetos en un fichero tipo CSV
+19. Crear un backup de todos nuestros objetos en un fichero tipo CSV
