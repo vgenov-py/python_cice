@@ -22,7 +22,7 @@
 * Ejercicio 8: Crear una función que acepte como parámetro toda la lista de diccionarios y devuelva una lista de objetos
 * Ejercicio 9: Considerando que en cada objeto tenemos la superficie y densidad ambas por km2, crear un MÉTODO 
 	(una función dentro del objeto) que devuelva la población del municipio dado
-* Ejercicio 10: Ya que tenemos una lista con todos los objetos, con su método "get_total_density()" 
+* Ejercicio 10: Ya que tenemos una lista con todos los objetos, con su método "get_population()" 
 	obtener la población de la comunidad de Madrid
 
 
@@ -30,10 +30,10 @@
 * Ejercicio 12: Crea un classmethod llamado from_str que crea una instancia de la siguiente cadena --> "test-3.54-23.86"
 * Ejercicio 13: Estable una tasa de crecimiento anual del 2%
 * Ejercicio 14: Define un método que aplique el crecimiento anual sobre un objeto
-* Ejercicio 15: Convertir el método del ejercicio 10 en propiedad
+* Ejercicio 15: Convertir el método del ejercicio 9 en propiedad
 * Ejercicio 16: Modificiar el print() para que también devuelva la población
 * Ejercicio 17: Define un set_anual_growth que permita modificar la tasa de crecimiento
 * Ejercicio 18: Agregar un Error Handeling para verficar que el type pasado como argumento en from_string sea un float
 
 CSV
-* Ejercicio 19: Crear un backup de todos nuestros objetos en un fichero tipo CSV
+.19 Crear un backup de todos nuestros objetos en un fichero tipo CSV
