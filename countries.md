@@ -8,7 +8,7 @@
 * Ejercicio 4: Crear una pequeña aplicación con las siguientes características:
 	
 	Debe permitirnos buscar países por nombre y por continentes
-	Cada uno de los países buscados debe quedar escrito en un archivo tipo csv que solo admitira los siguientes valores:
+	Cada uno de los países buscados debe quedar escrito en un archivo tipo csv que solo admitirá los siguientes valores:
 		name, capital, region, population, area, idioma (el primero), flag
 		A su vez estos valores acturán como encabezados
 	
