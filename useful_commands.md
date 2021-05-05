@@ -20,9 +20,15 @@
 ## GIT
 
 * git init
-* git remote add origin (url)
-* git branch (name_of_branch)
-* git checkout (name_of_branc)
-* git add file [file2]
-* git commit -m ("Your MSG")
-* git push origin (name_of_branch)
+* git remote add origin <url>
+* git remote set-url <url> (para cambiar link remoto)
+* git branch <name_of_branch> (crear rama)
+* git checkout <name_of_branch> (cambiar rama)
+* git add file <file2>
+* git commit -m <"Your MSG"> (crear commit) 
+* git push origin <name_of_branch> (pushear rama) (de local a remoto)
+* git pull origin <name_of_branch> (pullear rama) (de remoto a local)
+* git log (para ver todos nuestros commits)
+* PARA MERGEAR
+  1. git checkout <rama_donde_se_hará_el_mergeo>
+  2. git merge <rama_a_mergear>
